@@ -5,9 +5,11 @@ Unity3D Developer
 -----------------
 
 I'm a passionate developer with experience creating exciting games.
+-----------------
 
 *   ✉️  You can contact me by email: [leumax90@gmail.com](mailto:leumax90@gmail.com)
 *   ✉️  or telegram: [@maxleu](mailto:@maxleu)
+-----------------
 
 ### Skills 
 <p align="left">
