@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Maxim</h1>
 
-Unity3D Developer
+<h2>Unity3D Developer</h2>
 
 
 Welcome to my GitHub repository. Here, you can explore my projects created in Unity3D. I developed them for my pleasure and joy, and some of them I particularly like (they are in Pinned). I hope you will enjoy them too.
