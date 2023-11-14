@@ -4,6 +4,8 @@ Hi 👋 My name is Maxim
 Unity3D Developer
 -----------------
 
+Welcome to my GitHub repository. Here, you can explore my projects created in Unity3D. I developed them for my pleasure and joy, and some of them I particularly like (they are in Pinned). I hope you will enjoy them too.
+
 *   ✉️  You can contact me by email: [leumax90@gmail.com](mailto:leumax90@gmail.com)
 *   ✉️  or telegram: [@maxleu](mailto:@maxleu)
 
